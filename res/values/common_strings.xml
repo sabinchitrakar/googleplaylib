@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--  Title for notification shown when GooglePlayServices is unavailable [CHAR LIMIT=42] -->
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <!--  Title for notification shown when GooglePlayServices needs to be installed
+        for an application to work. [CHAR LIMIT=70] -->
+    <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
+    <!--  Title for notification shown when GooglePlayServices needs to be updated for an
+        application to work. [CHAR LIMIT=70] -->
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <!--  Title for notification shown when GooglePlayServices needs to be enabled for an
+        application to work. [CHAR LIMIT=70] -->
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+
+    <!--  Requested by string saying which app requested the notification. [CHAR LIMIT=42] -->
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <xliff:g id="app_name">%1$s</xliff:g></string>
+
+    <!-- Title of confirmation dialog informing user that they need to install
+        Google Play services (from Play Store) [CHAR LIMIT=40] -->
+   
+    <!-- (For phones) Message in confirmation dialog informing user that
+        they need to install Google Play services (from Play Store) [CHAR LIMIT=NONE] -->
+   
+    <!-- (For tablets) Message in confirmation dialog informing user that
+        they need to install Google Play services (from Play Store) [CHAR LIMIT=NONE] -->
+   </resources>
